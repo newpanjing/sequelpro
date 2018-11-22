@@ -1161,6 +1161,48 @@
 		9BE76C6E8377959C794385E5 /* SPHelpViewerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPHelpViewerController.h; sourceTree = "<group>"; };
 		9BE76CC0CCE3A4A74E3E8D5E /* SPFillView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPFillView.h; sourceTree = "<group>"; };
 		9BE76F9BF9BDA2921CDD05AF /* SPFilterTableController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPFilterTableController.h; sourceTree = "<group>"; };
+		A496CC8221A6485300AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "Interfaces/zh-Hans.lproj/AboutPanel.xib"; sourceTree = "<group>"; };
+		A496CC8321A6485300AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/BundleEditor.xib"; sourceTree = "<group>"; };
+		A496CC8421A6485300AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/BundleHTMLOutput.xib"; sourceTree = "<group>"; };
+		A496CC8521A6485300AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "Interfaces/zh-Hans.lproj/ConnectionErrorDialog.xib"; sourceTree = "<group>"; };
+		A496CC8621A6485400AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/ConnectionView.xib"; sourceTree = "<group>"; };
+		A496CC8721A6485400AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/Console.xib"; sourceTree = "<group>"; };
+		A496CC8821A6485400AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/ContentFilterManager.xib"; sourceTree = "<group>"; };
+		A496CC8921A6485400AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/ContentPaginationView.xib"; sourceTree = "<group>"; };
+		A496CC8A21A6485400AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "Interfaces/zh-Hans.lproj/DatabaseProcessList.xib"; sourceTree = "<group>"; };
+		A496CC8B21A6485400AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "Interfaces/zh-Hans.lproj/DatabaseServerVariables.xib"; sourceTree = "<group>"; };
+		A496CC8C21A6485400AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/DataMigrationDialog.xib"; sourceTree = "<group>"; };
+		A496CC8D21A6485400AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/DBView.xib"; sourceTree = "<group>"; };
+		A496CC8E21A6485400AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/EncodingPopupView.xib"; sourceTree = "<group>"; };
+		A496CC8F21A6485400AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/ExportDialog.xib"; sourceTree = "<group>"; };
+		A496CC9021A6485400AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/FieldEditorSheet.xib"; sourceTree = "<group>"; };
+		A496CC9121A6485400AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/GotoDatabaseDialog.xib"; sourceTree = "<group>"; };
+		A496CC9221A6485400AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/ImportAccessory.xib"; sourceTree = "<group>"; };
+		A496CC9321A6485500AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "Interfaces/zh-Hans.lproj/IndexesView.xib"; sourceTree = "<group>"; };
+		A496CC9421A6485500AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/MainMenu.xib"; sourceTree = "<group>"; };
+		A496CC9521A6485500AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/MainWindow.xib"; sourceTree = "<group>"; };
+		A496CC9621A6485500AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/Navigator.xib"; sourceTree = "<group>"; };
+		A496CC9721A6485500AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/Preferences.xib"; sourceTree = "<group>"; };
+		A496CC9821A6485500AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/PrintAccessory.xib"; sourceTree = "<group>"; };
+		A496CC9921A6485500AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "Interfaces/zh-Hans.lproj/ProgressIndicatorLayer.xib"; sourceTree = "<group>"; };
+		A496CC9A21A6485500AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/QueryFavoriteManager.xib"; sourceTree = "<group>"; };
+		A496CC9B21A6485500AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/SaveSPFAccessory.xib"; sourceTree = "<group>"; };
+		A496CC9C21A6485500AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/SSHQuestionDialog.xib"; sourceTree = "<group>"; };
+		A496CC9D21A6485500AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/UserManagerView.xib"; sourceTree = "<group>"; };
+		A496CC9E21A6485500AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/FilterTableWindow.xib"; sourceTree = "<group>"; };
+		A496CC9F21A6485500AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "zh-Hans"; path = "zh-Hans.lproj/HelpViewer.xib"; sourceTree = "<group>"; };
+		A496CCA021A6485600AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
+		A496CCA121A6485600AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "zh-Hans"; path = "../zh-Hans.lproj/ContentFilters.plist"; sourceTree = "<group>"; };
+		A496CCA221A6485600AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "zh-Hans"; path = "zh-Hans.lproj/EditorQuickLookTypes.plist"; sourceTree = "<group>"; };
+		A496CCA321A6485600AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		A496CCA421A6485600AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = "zh-Hans"; path = "zh-Hans.lproj/SPQLPluginConnectionBundleTemplate.html"; sourceTree = "<group>"; };
+		A496CCA521A6485600AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = "zh-Hans"; path = "zh-Hans.lproj/SPQLPluginConnectionTemplate.html"; sourceTree = "<group>"; };
+		A496CCA621A6485600AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = "zh-Hans"; path = "zh-Hans.lproj/SPQLPluginContentFiltersTemplate.html"; sourceTree = "<group>"; };
+		A496CCA721A6485600AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = "zh-Hans"; path = "zh-Hans.lproj/SPQLPluginQueryFavoritesTemplate.html"; sourceTree = "<group>"; };
+		A496CCA821A6485600AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = "zh-Hans"; path = "zh-Hans.lproj/SPQLPluginSQLTemplate.html"; sourceTree = "<group>"; };
+		A496CCA921A6485600AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = "zh-Hans"; path = "zh-Hans.lproj/SPQLPluginConnectionBundleWindowTemplate.html"; sourceTree = "<group>"; };
+		A496CCAA21A6485600AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.html; name = "zh-Hans"; path = "zh-Hans.lproj/SPQLPluginExportSettingsTemplate.html"; sourceTree = "<group>"; };
+		A496CCAB21A6485600AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; name = "zh-Hans"; path = "zh-Hans.lproj/Credits.rtf"; sourceTree = "<group>"; };
 		B51D6B9D114C310C0074704E /* toolbar-switch-to-table-triggers.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "toolbar-switch-to-table-triggers.png"; sourceTree = "<group>"; };
 		B52460D30F8EF92300171639 /* SPArrayAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SPArrayAdditions.h; sourceTree = "<group>"; };
 		B52460D40F8EF92300171639 /* SPArrayAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SPArrayAdditions.m; sourceTree = "<group>"; };
@@ -2766,6 +2808,8 @@
 				German,
 				ru,
 				de,
+				ja,
+				"zh-Hans",
 			);
 			mainGroup = 2A37F4AAFDCFA73011CA2CEA /* sequel-pro */;
 			projectDirPath = "";
@@ -3383,6 +3427,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				173C4361104455CA001F3A30 /* English */,
+				A496CC9A21A6485500AD4669 /* zh-Hans */,
 			);
 			name = QueryFavoriteManager.xib;
 			sourceTree = "<group>";
@@ -3391,6 +3436,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				174CE11D10AB80B5008F892B /* English */,
+				A496CC8A21A6485400AD4669 /* zh-Hans */,
 			);
 			name = DatabaseProcessList.xib;
 			path = ..;
@@ -3400,6 +3446,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				1761FD470EF03A6F00331368 /* English */,
+				A496CC9421A6485500AD4669 /* zh-Hans */,
 			);
 			name = MainMenu.xib;
 			sourceTree = "<group>";
@@ -3408,6 +3455,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				1792C13110AD752100ABE758 /* English */,
+				A496CC8B21A6485400AD4669 /* zh-Hans */,
 			);
 			name = DatabaseServerVariables.xib;
 			path = ..;
@@ -3417,6 +3465,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				17A7773711C52E61001E27B4 /* English */,
+				A496CC9321A6485500AD4669 /* zh-Hans */,
 			);
 			name = IndexesView.xib;
 			path = ..;
@@ -3426,6 +3475,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				17CC97F610B4AC6C0034CD7A /* English */,
+				A496CC8221A6485300AD4669 /* zh-Hans */,
 			);
 			name = AboutPanel.xib;
 			path = ..;
@@ -3435,6 +3485,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				17DD52C2115074B3007D8950 /* English */,
+				A496CCA021A6485600AD4669 /* zh-Hans */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
@@ -3443,6 +3494,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				17DD52C5115074CB007D8950 /* English */,
+				A496CCA321A6485600AD4669 /* zh-Hans */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";
@@ -3451,6 +3503,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				17E642070EF020CB001BC333 /* English */,
+				A496CC8D21A6485400AD4669 /* zh-Hans */,
 			);
 			name = DBView.xib;
 			sourceTree = "<group>";
@@ -3459,6 +3512,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				17DD52B811507217007D8950 /* English */,
+				A496CCAB21A6485600AD4669 /* zh-Hans */,
 			);
 			name = Credits.rtf;
 			sourceTree = "<group>";
@@ -3467,6 +3521,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				4D90B7A1101E0D1500D116A1 /* English */,
+				A496CC9D21A6485500AD4669 /* zh-Hans */,
 			);
 			name = UserManagerView.xib;
 			sourceTree = "<group>";
@@ -3475,6 +3530,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				508022941BF7BA470052A9B2 /* English */,
+				A496CCAA21A6485600AD4669 /* zh-Hans */,
 			);
 			name = SPQLPluginExportSettingsTemplate.html;
 			sourceTree = "<group>";
@@ -3483,6 +3539,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				50D3C34A1A75B8A800B5429C /* English */,
+				A496CC9121A6485400AD4669 /* zh-Hans */,
 			);
 			name = GotoDatabaseDialog.xib;
 			sourceTree = "<group>";
@@ -3491,6 +3548,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				58186D200F4CB38900851FE9 /* English */,
+				A496CC8521A6485300AD4669 /* zh-Hans */,
 			);
 			name = ConnectionErrorDialog.xib;
 			path = ..;
@@ -3500,6 +3558,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				5822CAE010011C8000DCC3D6 /* English */,
+				A496CC8621A6485400AD4669 /* zh-Hans */,
 			);
 			name = ConnectionView.xib;
 			sourceTree = "<group>";
@@ -3508,6 +3567,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				582A05A8108A5CCF0027D42B /* English */,
+				A496CC9921A6485500AD4669 /* zh-Hans */,
 			);
 			name = ProgressIndicatorLayer.xib;
 			path = ..;
@@ -3518,6 +3578,7 @@
 			children = (
 				584756FB120A1B290057631F /* English */,
 				582E957E1684D72A003459FD /* de */,
+				A496CCA521A6485600AD4669 /* zh-Hans */,
 			);
 			name = SPQLPluginConnectionTemplate.html;
 			sourceTree = "<group>";
@@ -3527,6 +3588,7 @@
 			children = (
 				584756FD120A1B290057631F /* English */,
 				582E957F1684D732003459FD /* de */,
+				A496CCA621A6485600AD4669 /* zh-Hans */,
 			);
 			name = SPQLPluginContentFiltersTemplate.html;
 			sourceTree = "<group>";
@@ -3536,6 +3598,7 @@
 			children = (
 				584756FF120A1B290057631F /* English */,
 				582E95801684D73A003459FD /* de */,
+				A496CCA721A6485600AD4669 /* zh-Hans */,
 			);
 			name = SPQLPluginQueryFavoritesTemplate.html;
 			sourceTree = "<group>";
@@ -3545,6 +3608,7 @@
 			children = (
 				58475701120A1B290057631F /* English */,
 				582E95811684D746003459FD /* de */,
+				A496CCA821A6485600AD4669 /* zh-Hans */,
 			);
 			name = SPQLPluginSQLTemplate.html;
 			sourceTree = "<group>";
@@ -3553,6 +3617,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				58A8A72411A0148400B95749 /* English */,
+				A496CC9521A6485500AD4669 /* zh-Hans */,
 			);
 			name = MainWindow.xib;
 			sourceTree = "<group>";
@@ -3561,6 +3626,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				58C3507410B9ADEA00D37E14 /* English */,
+				A496CC8921A6485400AD4669 /* zh-Hans */,
 			);
 			name = ContentPaginationView.xib;
 			sourceTree = "<group>";
@@ -3569,6 +3635,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				B52460DA0F8EF93B00171639 /* English */,
+				A496CC8721A6485400AD4669 /* zh-Hans */,
 			);
 			name = Console.xib;
 			sourceTree = "<group>";
@@ -3577,6 +3644,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				B57747D10F7A891A003B34F9 /* English */,
+				A496CC9721A6485500AD4669 /* zh-Hans */,
 			);
 			name = Preferences.xib;
 			sourceTree = "<group>";
@@ -3585,6 +3653,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				586F432A0FD74CFC00B428D7 /* English */,
+				A496CC9C21A6485500AD4669 /* zh-Hans */,
 			);
 			name = SSHQuestionDialog.xib;
 			sourceTree = "<group>";
@@ -3593,6 +3662,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				29A1B7EA0FD12E55000B88E8 /* English */,
+				A496CC9821A6485500AD4669 /* zh-Hans */,
 			);
 			name = PrintAccessory.xib;
 			sourceTree = "<group>";
@@ -3601,6 +3671,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				B5E92F180F75B2D100012500 /* English */,
+				A496CC8F21A6485400AD4669 /* zh-Hans */,
 			);
 			name = ExportDialog.xib;
 			sourceTree = "<group>";
@@ -3609,6 +3680,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BAC6BAF820A0D22400247837 /* English */,
+				A496CC9E21A6485500AD4669 /* zh-Hans */,
 			);
 			name = FilterTableWindow.xib;
 			sourceTree = "<group>";
@@ -3617,6 +3689,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BAE25E0020B32BDA00DD9A40 /* English */,
+				A496CC9F21A6485500AD4669 /* zh-Hans */,
 			);
 			name = HelpViewer.xib;
 			sourceTree = "<group>";
@@ -3625,6 +3698,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BC30C010111C98BD002701C9 /* English */,
+				A496CC8C21A6485400AD4669 /* zh-Hans */,
 			);
 			name = DataMigrationDialog.xib;
 			sourceTree = "<group>";
@@ -3633,6 +3707,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BC65C3B1107CE3EE003F7B02 /* English */,
+				A496CC9221A6485400AD4669 /* zh-Hans */,
 			);
 			name = ImportAccessory.xib;
 			sourceTree = "<group>";
@@ -3641,6 +3716,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BC675A16107203BA00C5ACD4 /* English */,
+				A496CC8821A6485400AD4669 /* zh-Hans */,
 			);
 			name = ContentFilterManager.xib;
 			sourceTree = "<group>";
@@ -3649,6 +3725,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BC77C5E0129AA67F009AD832 /* English */,
+				A496CC8421A6485300AD4669 /* zh-Hans */,
 			);
 			name = BundleHTMLOutput.xib;
 			sourceTree = "<group>";
@@ -3657,6 +3734,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BC8B0DAE104004F900FC02EC /* English */,
+				A496CC8E21A6485400AD4669 /* zh-Hans */,
 			);
 			name = EncodingPopupView.xib;
 			sourceTree = "<group>";
@@ -3665,6 +3743,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BC93FBBC11514ADE005F1D9F /* English */,
+				A496CC9621A6485500AD4669 /* zh-Hans */,
 			);
 			name = Navigator.xib;
 			sourceTree = "<group>";
@@ -3673,6 +3752,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BCA6F630100FA7D700E80253 /* English */,
+				A496CC9021A6485400AD4669 /* zh-Hans */,
 			);
 			name = FieldEditorSheet.xib;
 			sourceTree = "<group>";
@@ -3681,6 +3761,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BCB56194106F893700167321 /* ContentFilters.plist */,
+				A496CCA121A6485600AD4669 /* zh-Hans */,
 			);
 			name = ContentFilters.plist;
 			path = English.lproj;
@@ -3690,6 +3771,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BCB56198106F8A1600167321 /* English */,
+				A496CCA221A6485600AD4669 /* zh-Hans */,
 			);
 			name = EditorQuickLookTypes.plist;
 			sourceTree = "<group>";
@@ -3699,6 +3781,7 @@
 			children = (
 				BCBB3C16121158790011F962 /* English */,
 				582E957D1684D720003459FD /* de */,
+				A496CCA421A6485600AD4669 /* zh-Hans */,
 			);
 			name = SPQLPluginConnectionBundleTemplate.html;
 			sourceTree = "<group>";
@@ -3707,6 +3790,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BCCB7479128D4FD100339E25 /* English */,
+				A496CC8321A6485300AD4669 /* zh-Hans */,
 			);
 			name = BundleEditor.xib;
 			sourceTree = "<group>";
@@ -3715,6 +3799,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				BCCBD7FB104408B000D4C50A /* English */,
+				A496CC9B21A6485500AD4669 /* zh-Hans */,
 			);
 			name = SaveSPFAccessory.xib;
 			sourceTree = "<group>";
@@ -3724,6 +3809,7 @@
 			children = (
 				BCEC861D12115A2B002561DA /* English */,
 				582E95821684D74C003459FD /* de */,
+				A496CCA921A6485600AD4669 /* zh-Hans */,
 			);
 			name = SPQLPluginConnectionBundleWindowTemplate.html;
 			sourceTree = "<group>";

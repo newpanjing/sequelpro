@@ -243,7 +243,7 @@ NSString *SPContentFiltersHaveBeenUpdatedNotification = @"ContentFiltersHaveBeen
 NSString *SPCopyContentOnTableCopy                    = @"CopyContentOnTableCopy";
 
 // URLs
-NSString *SPDonationsURL                         = @"https://www.sequelpro.com/donate/";
+NSString *SPDonationsURL                         = @"https://github.com/newpanjing/sequelpro/";
 NSString *SPMySQLSearchURL                       = @"https://dev.mysql.com/doc/refman/%@/%@/%@.html";
 NSString *SPDevURL                               = @"https://github.com/sequelpro/sequelpro";
 

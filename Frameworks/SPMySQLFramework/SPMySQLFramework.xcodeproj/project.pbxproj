@@ -168,6 +168,7 @@
 		58D2A4D016EDF1C6002EB401 /* SPMySQLEmptyResult.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SPMySQLEmptyResult.m; path = Source/SPMySQLEmptyResult.m; sourceTree = "<group>"; };
 		8DC2EF5A0486A6940098B216 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Resources/Info.plist; sourceTree = "<group>"; };
 		8DC2EF5B0486A6940098B216 /* SPMySQL.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SPMySQL.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		A496CC8121A6485300AD4669 /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/InfoPlist.strings"; sourceTree = "<group>"; };
 		D2F7E79907B2D74100F64583 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = /System/Library/Frameworks/CoreData.framework; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
@@ -519,6 +520,7 @@
 				Japanese,
 				French,
 				German,
+				"zh-Hans",
 			);
 			mainGroup = 0867D691FE84028FC02AAC07 /* SPMySQLFramework */;
 			productRefGroup = 034768DFFF38A50411DB9C8B /* Products */;
@@ -605,6 +607,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				089C1667FE841158C02AAC07 /* English */,
+				A496CC8121A6485300AD4669 /* zh-Hans */,
 			);
 			name = InfoPlist.strings;
 			sourceTree = "<group>";
